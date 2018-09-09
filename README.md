@@ -1,2 +1,2 @@
 # sigf_idea
-Sistema integrado de gestão de farmaçias
+Sistema integrado de gestão de farmacia
